@@ -49,6 +49,7 @@ This project is ideal for businesses that interact with customers, including:
 ## 5. Sample Request & Response
 
 - **Demo WhatsApp chat video** showcasing the system's functionality (attached)
+   https://github.com/ysfmrz/WhatsApp-Business-Intelligent-Assistant/blob/main/Example%20Video-URL.md
 - **Sample CSV file** containing structured data for automated responses (attached)
 
 ## 6. Security Considerations
