@@ -62,7 +62,9 @@ This project is ideal for businesses that interact with customers, including:
 ### Limitations:
 
 - Conversation limits are subject to **WhatsApp API** constraints.
-- Each verified WhatsApp number can handle **up to 1,000 users**.
+- Each verified WhatsApp Business API number starts with a limit of 1,000 unique users per 24 hours.
+- Businesses can increase their limit to 10,000 and 100,000 users based on engagement and compliance with WhatsApp policies.
+- For more details, refer to the official WhatsApp Business API documentation: https://developers.facebook.com/docs/whatsapp/messaging-limits/
 
 ### Challenges:
 
