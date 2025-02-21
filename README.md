@@ -75,5 +75,7 @@ This project is ideal for businesses that interact with customers, including:
 
 ---
 **Prepared by:Yousef Mirzadeh (MODERN MUSCAT TECH)
+** Whatsapp number: +96898097679
+** Email: yosef.1419@gmail.com
 **Date: 2/21/2025
 
